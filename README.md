@@ -1,5 +1,5 @@
 
 
-https://snezh88k.github.io/snezh88k/
+https://snezh88k.github.io/Snezh88k/
 
 
