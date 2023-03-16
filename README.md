@@ -22,6 +22,7 @@
   
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snezh88k&theme=cobalt&show_icons=true)
+![Codewars stats](https://www.codewars.com/users/rsschool_18bec9bd25cded39/badges/large)
 
 #### Update 16.03.2023
 
