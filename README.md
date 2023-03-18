@@ -12,7 +12,8 @@
 
 
   1. <b> Independent learning</b> 01.09.2022 - ∞  
-  2.  <b>The Rolling Scopes School "JavaScript/Front-end 2023Q1" </b> 05.03.2023 - now 
+  2. <b>The Rolling Scopes School "JavaScript/Front-end 2023Q1" </b> 05.03.2023 - now 
+  3. <b>Hotels.ru<b> 10.02.2023 - now
 
 
 
